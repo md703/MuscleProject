@@ -1,0 +1,56 @@
+{
+"MCML_version_K": 3.02,
+"num_photon": 100000000,
+"sim_time": 7.525,
+"sim_speed(photons/s)": 1.3289e+07,
+"sim_GPU": "NVIDIA GeForce RTX 2060",
+"each_photon_weight": 4.29497e+17,
+"number_layers": 4,
+"detect_mode": "ring",
+"num_SDS": 3,
+"SDS_detected_number": [ 16390 , 34196 , 4659 ]
+}{
+"MCML_version_K": 3.02,
+"num_photon": 1000000000,
+"sim_time": 71.519,
+"sim_speed(photons/s)": 1.39823e+07,
+"sim_GPU": "NVIDIA GeForce RTX 2060",
+"each_photon_weight": 4.29497e+18,
+"number_layers": 4,
+"detect_mode": "ring",
+"num_SDS": 3,
+"SDS_detected_number": [ 163232 , 341219 , 46771 ]
+}{
+"MCML_version_K": 3.02,
+"num_photon": 1000000000,
+"sim_time": 73.756,
+"sim_speed(photons/s)": 1.35582e+07,
+"sim_GPU": "NVIDIA GeForce RTX 2060",
+"each_photon_weight": 4.29497e+18,
+"number_layers": 4,
+"detect_mode": "ring",
+"num_SDS": 3,
+"SDS_detected_number": [ 10073 , 10202 , 12907 ]
+}{
+"MCML_version_K": 3.02,
+"num_photon": 1000000000,
+"sim_time": 49.082,
+"sim_speed(photons/s)": 2.03741e+07,
+"sim_GPU": "NVIDIA GeForce RTX 2060",
+"each_photon_weight": 4.29497e+18,
+"number_layers": 4,
+"detect_mode": "ring",
+"num_SDS": 3,
+"SDS_detected_number": [ 52233 , 108067 , 64571 ]
+}{
+"MCML_version_K": 3.02,
+"num_photon": 1000000000,
+"sim_time": 78.814,
+"sim_speed(photons/s)": 1.26881e+07,
+"sim_GPU": "NVIDIA GeForce RTX 2060",
+"each_photon_weight": 4.29497e+18,
+"number_layers": 4,
+"detect_mode": "ring",
+"num_SDS": 3,
+"SDS_detected_number": [ 19580 , 18249 , 21697 ]
+}
