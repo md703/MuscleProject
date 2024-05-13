@@ -1,8 +1,8 @@
 Muscle Project
 ===
 -   Author: [Lee, Hao-Wei](https://leeweix.github.io/)
--   License: MIT License
--   Update Date: 2024/5/6
+-   License: 
+-   Update Date: 2024/5/13
 -   Download Size: 128 MB
 -   Github Link: https://github.com/leeweix/MuscleProject
 -   Contact :email:: kh7227kk@gmail.com 
