@@ -13,7 +13,7 @@ Muscle Project
 ![Static Badge](https://img.shields.io/badge/matlab-R2021b-brown)
 ![Static Badge](https://img.shields.io/badge/python-v3.8.0-blue)
 ![Static Badge](https://img.shields.io/badge/pip-v20.2.0_(python3.8)-orange)
-![Static Badge](https://img.shields.io/badge/cuda-v11.7.0-green)
+![Static Badge](https://img.shields.io/badge/cuda-v11.4.0-green)
 ![Static Badge](https://img.shields.io/badge/OS-ubuntu_18.04_or_win10-purple)
 
 
@@ -48,8 +48,8 @@ Muscle Project
 
 > [!IMPORTANT]
 > 1. make sure your local computer has ${\rm\color{red}{cuda \space toolkit}}$
-> 2. ${\rm\color{red}{recompile}}$ the MCML source code at [MD703_edit_MCX_src_v2023/src](https://github.com/ShawnSun1031/IJV-Project/tree/main/MD703_edit_MCX_src_v2023/src)
-> 3. Install the dependencies: `pip install -r requirements.txt`
+> 2. ${\rm\color{red}{recompile}}$ the MCML source code at [MD703_edit_MCML](https://github.com/kaoben2731/MCML_GPU)
+
 
 
 
